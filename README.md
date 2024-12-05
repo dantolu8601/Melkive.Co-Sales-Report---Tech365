@@ -1,9 +1,9 @@
 
 MELKIVE. CO SALES DASHBOARD DOCUMENTATION
 
-PROJECT SCOPE
 
 OBJECTIVE
+
 This dashboard provides insights into annual sales performance by region and product category for Melkive.co.
 
 TOOLS USED
