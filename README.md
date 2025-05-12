@@ -1,16 +1,16 @@
 
-MELKIVE. CO SALES DASHBOARD DOCUMENTATION
+# Melkive. Co Sales Intelligence Dashboard
 
 
-OBJECTIVE
+# Objective
 
 This dashboard provides insights into annual sales performance by region and product category for Melkive.co.
 
-TOOLS USED
+# Tools Used
 - Power BI (for building the dashboard)
  - Excel (for data cleaning and preparation)
    
-PROCESS
+# Process
 
 1. Data Cleaning and Preparation
    - Utilized Power Query to remove duplicate entries, correct datatypes for each column, and eliminate blank cells.  
@@ -35,7 +35,7 @@ PROCESS
 5. Testing and Validation  
    - Ensured all calculations and visualizations were correct and functional.
    
-INSIGHT QUESTIONS
+# Insight Questions
 
 1.	How do sales trends vary over different months, quarters, and years across various product categories and regions?
 
@@ -50,7 +50,7 @@ INSIGHT QUESTIONS
 6.	How can customer preferences be segmented by region based on the types of products they buy and the times they purchase them?
 
 
-FINDING
+# Finding
 
 •	Total revenue stands at $19M across all regions and product categories.
 
@@ -76,7 +76,7 @@ FINDING
 
 •	Sales volumes are highest in APAC across all product categories, followed by Americas and Europe.
 
-RECOMMENDATIONS
+# Recommendation
 
 •	APAC is the leading market; invest in marketing, supply chain efficiency, and customer engagement initiatives there to maintain dominance.
 
@@ -89,5 +89,8 @@ RECOMMENDATIONS
 •	Although "Bars" dominate, ensure growth in the "Bliss" category and explore innovations to create new product lines or variations to capture more market share. This strategy ensures the business isn't overly dependent on just one product category and has room to grow in other areas
 
 •	Leverage the popularity of 85% Dark Bars in marketing campaigns, especially in new or lagging regions.
+
+# Contact Me
+saheeddaniel15@gmail.com
 
 
